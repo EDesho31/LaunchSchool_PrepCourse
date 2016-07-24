@@ -1,0 +1,10 @@
+When doing a search in Google for Rail/Ruby API, I found and OVERWHELMING amount of results.  I'm not sure where to start in understanding each of the sites to be able to pick the one I like best.  Instead, I compiled a list of sites that seem easy to understand and are well laid out.
+
+api.rubyonrails.org
+  guides.rubyonrails.org
+  
+https://github.com/rails/rails
+
+https://www.ruby-lang.org/en/documentation/
+
+http://apionrails.icalialabs.com/book/chapter_one
